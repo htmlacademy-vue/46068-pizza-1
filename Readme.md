@@ -1,6 +1,6 @@
 # Личный проект «VuePizza»
 
-* Студент: [Ольга Вадясова](https://up.htmlacademy.ru/vue/1/user/46068).
+* Студент: (Оля Вадясова)[https://github.com/ad0v0].
 
 ---
 
